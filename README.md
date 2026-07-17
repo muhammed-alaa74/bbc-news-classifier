@@ -30,9 +30,6 @@ and try it on a real headline right now.
 | ![accuracy](assets/accuracy.png) | ![loss](assets/loss.png) |
 
 **~94.8% validation accuracy**
-
-![confusion matrix](assets/confusion_matrix.png)
-
 </div>
 
 ---
